@@ -1,0 +1,25 @@
+<xml>
+  <attendancetable>
+    <attendance>
+      <attendanceid>1</attendanceid>
+      <userid>1</userid>
+      <deptid>1</deptid>
+      <date>1-6-2025</date>
+      <status>present</status>
+    </attendance>
+    <attendance>
+      <attendanceid>2</attendanceid>
+      <userid>2</userid>
+      <deptid>2</deptid>
+      <date>1-6-2025</date>
+      <status>absent</status>
+    </attendance>
+    <attendance>
+      <attendanceid>3</attendanceid>
+      <userid>1</userid>
+      <deptid>1</deptid>
+      <date>2-6-2025</date>
+      <status>absent</status>
+    </attendance>
+  </attendancetable>
+</xml>
